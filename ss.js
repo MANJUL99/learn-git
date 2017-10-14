@@ -1,1 +1,6 @@
-console.log("hlllo dwarka!!");
+
+function greet(name)
+{
+    console.log("hello"+name);
+}
+greet(Manjul);
