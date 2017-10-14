@@ -1,6 +1,7 @@
 
 function greet(name)
 {
-    console.log("hello"+name);
+    console.log("KNock Knock Knock "+name);
+    console.log("KNock Knock Knock "+name);
 }
 greet(Manjul);
